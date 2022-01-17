@@ -5,7 +5,7 @@
 
 # Daniel Reinón García
 
-#### _Data Science & Software Development_
+#### _Machine Learning & Data Science & Software Development_
 
 </div>
 
