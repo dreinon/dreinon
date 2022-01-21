@@ -67,7 +67,7 @@ Open-minded and outgoing person with aptitudes for team working and quickly adop
 ![Object Oriented Programming - _Good_](https://img.shields.io/badge/Object_Oriented-Good-98ee99?style=for-the-badge&labelColor=66bb6a) 
 ![Functional Programming - _Good_](https://img.shields.io/badge/Functional-Good-7CD1B8?style=for-the-badge&labelColor=3E8E7E) 
 ![Linux - _Beginner_](https://img.shields.io/badge/Linux-Beginner-F7C700?style=for-the-badge&logo=linux&labelColor=eeeeee&logoColor=black) 
-![Agile - _Good_](https://img.shields.io/badge/Agile-Very_good-ff94c2?style=for-the-badge&labelColor=ba2d65) 
-![Git - _Good_](https://img.shields.io/badge/Git-Very_good-3F2F00?style=for-the-badge&labelColor=E94E31&logo=git&logoColor=white)
+![Agile - _Good_](https://img.shields.io/badge/Agile-Good-ff94c2?style=for-the-badge&labelColor=ba2d65) 
+![Git - _Good_](https://img.shields.io/badge/Git-Good-3F2F00?style=for-the-badge&labelColor=E94E31&logo=git&logoColor=white)
 
 </div>
