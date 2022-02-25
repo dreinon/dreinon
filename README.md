@@ -1,7 +1,7 @@
 <!--- Style inspired by: https://github.com/abrahammurciano/abrahammurciano/blob/main/README.md --->
 <div align="center">
 
-<img src="profile.png" width="200px">
+<img src="profile_pic.png" width="200px">
 
 # Daniel Reinón García
 
